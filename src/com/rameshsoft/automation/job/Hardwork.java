@@ -7,7 +7,7 @@ public class Hardwork {
 		
 		System.out.println("Practice = Job");
 		
-		
+		System.out.println("JAVA");
 	}
 	
 }
