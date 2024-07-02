@@ -4,6 +4,7 @@ public class Job {
 
 	public void practiceJob() {
 		System.out.println("JOB HARDWORK PRACTICE");
+		System.out.println("Do 9 hours practice");
 	}
 	
 }
